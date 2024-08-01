@@ -10,4 +10,4 @@ int main()
     int size = sizeof(arr[])/sizeof(arr[0]);
     sort(arr,size);
     return 0;
-}
+}\n
